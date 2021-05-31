@@ -29,8 +29,8 @@ public class PlayerMovement : MonoBehaviour
 
     [SerializeField] private bool facingLeft;
     
-    public bool hit = false; //raycast, if this object is hit, change to true from other script
-    public float hitDamage; //raycast, if this object is hit, change value from other script
+    public bool hit = false;
+    public float hitDamage;
     public HealthBar healthBar;
     public HealthBar staminaBar;
 
