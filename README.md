@@ -8,3 +8,4 @@ Check out the game page to download and play here: [Kaiju Arena](https://hawtori
 | Role | Name | GitHub |
 |------|------|--------|
 | Artist | E Von K | github.com/Jannisaries |
+| Programmer | Hawtori | github.com/Hawtori |
